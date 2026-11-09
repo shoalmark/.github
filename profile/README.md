@@ -19,6 +19,6 @@ git. In each, the agents do the work and the person in charge has the final word
 - **[skills](https://github.com/shoalmark/skills):** ⌜skills⌟, procedures by which agent seats keep their course in
   any git repository, finding drift and pruning stale prose.
 
-[The blog](https://shoalmark.tools/blog/) · [shoalmark.tools](https://shoalmark.tools)
+[The blog](https://shoalmark.tools/blog/) · [shoalmark.tools](https://shoalmark.tools) · [The press kit](https://github.com/shoalmark/brand)
 
 Licence: `Apache-2.0 OR MIT`, at your option.
