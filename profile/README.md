@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="org-hero-still.png">
-  <img src="org-hero-once.gif" width="880" alt="A wide chart of shallow water seen from above, one channel winding through the shoals with marks on both banks. At the entry, ⌜shoalmark⌟ stands set on the lower bank, its twigs turned down, opposite ⌜skills⌟ on the upper bank; ⌜hail/1⌟ follows, set, then ⌜chart/1⌟ and ⌜tracker/1⌟, hollow, not yet set. A small pink vessel has come from the entry to ⌜hail/1⌟, its solid track behind it; its dashed heading line, swung once away from a shoal, runs on along the channel past the two planned marks and off the edge.">
+  <img src="org-hero-once.gif" width="880" alt="A wide chart seen from above: open, deep water at the left, then one channel winding through the shoals, marked on both banks. At its mouth, ⌜shoalmark⌟ stands set on the lower bank, its twigs turned down, opposite ⌜skills⌟ on the upper bank; ⌜hail/1⌟ follows, set, then ⌜chart/1⌟ and ⌜tracker/1⌟, hollow, not yet set. A small pink vessel has come in from the left edge, through the gate, to ⌜hail/1⌟, its solid track behind it; its dashed heading line, swung once away from a shoal, runs on along the channel past the two planned marks and off the edge.">
 </picture>
 
 *⌜shoalmark⌟ runs today; ⌜skills⌟ is ready to use and ⌜hail/1⌟ to read; ⌜chart/1⌟ and ⌜tracker/1⌟ are planned. Take up
